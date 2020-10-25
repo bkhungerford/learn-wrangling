@@ -1,11 +1,11 @@
 {
     "id": "95116669",
-    "path": null,
-    "project_path": null,
+    "path": "C:/Users/brend/projects/learn-wrangling/cancer.R",
+    "project_path": "cancer.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2177516624",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1603658125702.0,
     "source_on_save": false,
     "relative_order": 4,
@@ -15,11 +15,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 7598263202855658016,
-    "encoding": "",
+    "lastKnownWriteTime": 1603669146,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1603658477161,
+    "last_content_update": 1603669146168,
     "read_only": false,
     "read_only_alternatives": []
 }
